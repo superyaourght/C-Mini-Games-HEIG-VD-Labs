@@ -76,3 +76,9 @@ To clean compiled files:
 ```bash
 make clean
 ```
+
+To re-compile the project:
+
+```bash
+make re
+````
