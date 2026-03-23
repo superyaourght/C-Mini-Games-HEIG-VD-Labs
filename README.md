@@ -67,7 +67,7 @@ make
 
 This will generate the following executables:
 
-* `battleship-id`
+* `battleship-1d`
 * `battleship-32bits`
 * `hangman`
 
